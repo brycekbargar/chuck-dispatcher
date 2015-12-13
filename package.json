@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/brycekbargar/chuck-dispatcher/issues"
   },
-  "homepage": "https://github.com/brycekbargar/chuck-dispatcher#readme"
+  "homepage": "https://github.com/brycekbargar/chuck-dispatcher#readme",
+  "files": [
+    "package"
+  ]
 }
