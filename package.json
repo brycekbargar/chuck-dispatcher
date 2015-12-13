@@ -1,0 +1,19 @@
+{
+  "name": "chuck-dispatcher",
+  "version": "1.0.0",
+  "description": "A [ChucK](http://chuck.cs.princeton.edu/) implementation of the Dispatcher in [Facebook's Flux](https://facebook.github.io/flux/) pattern.",
+  "main": "index.ck",
+  "scripts": {
+    "start": "steve start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brycekbargar/chuck-dispatcher.git"
+  },
+  "author": "Bryce",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brycekbargar/chuck-dispatcher/issues"
+  },
+  "homepage": "https://github.com/brycekbargar/chuck-dispatcher#readme"
+}
